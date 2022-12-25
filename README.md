@@ -1,29 +1,94 @@
-<h1 align="center">Hola <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">, Aayush here!!</h1>
-
-<h2 align="center">Here's my Github Portfolio!</h2>
-
-<br>
-
-<p align="center"> <a href="https://twitter.com/AayushS49665212" target="blank"><img src="https://img.shields.io/twitter/follow/AayushS49665212?logo=twitter&style=for-the-badge" alt="AayushS49665212" /></a> </p>
-
-<br>
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushsoni19&theme=midnight-purple&show_icons=true" alt="Aayushsoni19"</div>
-
-<hr>
-
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aayushsoni19&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="aayushsoni19" /></p>
-
-<br>
-<br>
-
-<h3 align="left">Languages and Tools I work with or Learning:</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
   
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/cs_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/how-to/learning-c-sharp-unity-beginners" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+### <div align="center">I'm Aayush, a Full Time Frontend Freelance Developer 👨‍💻</div>  
   
-<hr>
 
-<br>
-<br>
+- 🔭 I’m currently working on different projects to create a good portfolio  
+  
 
-![Metrics](https://metrics.lecoq.io/aayushsoni19?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+- 🌱 I’m currently learning ReactJs  
+  
+
+- 📧 You can contact me at aayushsoni1902@gmail.com  
+  
+
+- ⚡ Fun fact: I am an anime and manga nerd.  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+### Coding Time
+[![wakatime](https://wakatime.com/badge/user/269d2c6b-9046-4d74-890b-434553945ff0.svg)](https://wakatime.com/@269d2c6b-9046-4d74-890b-434553945ff0)
+
+<br/>
+
+
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/AayushS49665212" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/aayushsoni__19" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/aayushsoni19" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/aayush-soni-684094174/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aayushsoni19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=q46tfqdeqledhlsptn5jpin37&redirect=true 
+https://spotify-github-profile.vercel.app/api/view.svg?uid=q46tfqdeqledhlsptn5jpin37&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=aayushsoni19&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
