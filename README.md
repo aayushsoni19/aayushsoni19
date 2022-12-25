@@ -1,9 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+Hi 👋🏻, my name is Aayush
+======================================================================================================================================
 
-### <div align="center">I'm Aayush, a Full Time Frontend Freelance Developer 👨‍💻</div>  
+Frontend Developer
+------------------------ 
   
 
 - 🔭 I’m currently working on different projects to create a good portfolio  
